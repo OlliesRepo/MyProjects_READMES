@@ -3,18 +3,18 @@ This code implements an arbitrary explicit Runge-Kutta method. Log-log error plo
 <table>
   <tr>
     <td>
-      <img src="RK1_Error.png" alt="RK1 log-log Error Convergence" width="400"/>
+      <img src=".images/RK1_Error.png" alt="RK1 log-log Error Convergence" width="400"/>
     </td>
     <td>
-      <img src="RK2_Original_Rule_Error.png" alt="Trapezoidal RK2 log-log Error Convergence" width="400"/>
+      <img src=".images/RK2_Original_Rule_Error.png" alt="Trapezoidal RK2 log-log Error Convergence" width="400"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="RK2_Midpoint_Rule_Error.png" alt="Midpoint RK2 log-log Error Convergence" width="400"/>
+      <img src=".images/RK2_Midpoint_Rule_Error.png" alt="Midpoint RK2 log-log Error Convergence" width="400"/>
     </td>
     <td>
-      <img src="RK4_Error.png" alt="RK4 log-log Error Convergence" width="400"/>
+      <img src=".images/RK4_Error.png" alt="RK4 log-log Error Convergence" width="400"/>
     </td>
   </tr>
 </table>
