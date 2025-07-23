@@ -71,7 +71,7 @@ The main components include:
 - Off-diagonal entries: random in [0,1)  
 - Positive definite (due to diagonal dominance)
 
-![Residual Norm Convergence](comparison_steepest_vs_preconditioned.png)
+![Residual Norm Convergence](.images/comparison_steepest_vs_preconditioned.png)
 
 
 
