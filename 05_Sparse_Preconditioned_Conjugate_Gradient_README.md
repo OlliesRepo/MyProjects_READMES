@@ -12,7 +12,7 @@ The convergence rates of the Conjugate Gradient algorithm with and without preco
 - Off-diagonal entries: random in [0,1)  
 - Positive definite (due to diagonal dominance)
 
-![Residual Norm Convergence](comparison_CG_vs_preconditioned.png)
+![Residual Norm Convergence](.images/comparison_CG_vs_preconditioned.png)
 
 
 
