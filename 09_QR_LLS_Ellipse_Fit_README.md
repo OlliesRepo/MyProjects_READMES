@@ -3,4 +3,4 @@ This program fits an ellipse to a set of points by solving the linear least squa
 
 A general theory is provided. 
 
-![Fitted Ellipse](QR_LLS_Ellipse_Fit.png)
+![Fitted Ellipse](.images/QR_LLS_Ellipse_Fit.png)
